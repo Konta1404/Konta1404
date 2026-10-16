@@ -10,3 +10,5 @@ I spent more than six years at SynergySuite working on enterprise SaaS, includin
 I'm interested in maintainable architecture, complex product workflows, testing, accessibility, and developer experience.
 
 [Stack Overflow](https://stackoverflow.com/users/8116413/veselin-konti%C4%87)
+
+![Profile views](https://komarev.com/ghpvc/?username=Konta1404&label=Profile%20views&color=blue&style=flat)
